@@ -1,0 +1,18 @@
+{
+    "icons": {"128": "Icon.png"},
+    "manifest_version": 2,
+    "name": "Tik Tok Destroyer",
+    "version": "1.0",
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "<all_urls>"
+    ],
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["domWriter.js"]
+        }
+    ],
+    "background": {"Scripts": ["contents.js"]}
+}
