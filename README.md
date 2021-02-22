@@ -6,7 +6,7 @@ Do you hate seeing your family and friends on Tik Tok? Same here, so I built a C
 # Installation
 1. Download this project as a ZIP
 2. Extract the folder and enter the Tik-Tok-Destroyer-Main folder in the extracted folder
-3. Open Google and go to chrome://extensions/
+3. Open Google and go to [ChromeExtensions](chrome://extensions/)
 4. Turn on Developer mode
 5. Click "Load unpacked"
 6. Open the TikTokDestroyer folder in Tik-Tok-Destroyer-Main/Tik-Tok-Destroyer-Main/TikTokDestroyer\
