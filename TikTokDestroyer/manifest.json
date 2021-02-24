@@ -14,5 +14,10 @@
             "js": ["domWriter.js"]
         }
     ],
+<<<<<<< HEAD
     "background": {"scripts": ["content.js"]}
 }
+=======
+    "background": {"Scripts": ["content.js"]}
+}
+>>>>>>> c7d80c85c1c92323cf9749441bd4bedc0ee9513d
