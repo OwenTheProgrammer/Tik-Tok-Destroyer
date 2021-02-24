@@ -14,5 +14,5 @@
             "js": ["domWriter.js"]
         }
     ],
-    "background": {"Scripts": ["contents.js"]}
+    "background": {"Scripts": ["content.js"]}
 }
