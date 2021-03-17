@@ -3,6 +3,9 @@
 # Description
 Do you hate seeing your family and friends on Tik Tok? Same here, so I built a Chrome extension to redirect you to the bible because they need jesus.
 
+# Original Video
+This project was made for [This Video](https://www.youtube.com/watch?v=27Q3EF_dOxQ&ab_channel=OwenTheProgrammer) on [My Youtube Channel](https://www.youtube.com/channel/UCBN7kAz6Rbso4d97u3BYK2w)
+
 # Installation
 1. Download this project as a ZIP
 2. Extract the folder and enter the Tik-Tok-Destroyer-Main folder in the extracted folder
